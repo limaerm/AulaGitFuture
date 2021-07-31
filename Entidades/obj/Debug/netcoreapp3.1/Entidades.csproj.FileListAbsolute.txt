@@ -1,0 +1,17 @@
+C:\Emerson\Projetos\TrilhaEspecialista\Projeto_01\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Emerson\Projetos\TrilhaEspecialista\Projeto_01\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Emerson\Projetos\TrilhaEspecialista\Projeto_01\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Emerson\Projetos\TrilhaEspecialista\Projeto_01\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Emerson\Projetos\TrilhaEspecialista\Projeto_01\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Emerson\Projetos\TrilhaEspecialista\Projeto_01\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Emerson\Projetos\TrilhaEspecialista\Projeto_01\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Emerson\Projetos\TrilhaEspecialista\Projeto_01\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Emerson\Projetos\TrilhaEspecialista\Aula_POO\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
